@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225115371714",
+    "project_id": "hadeesgpt",
+    "storage_bucket": "hadeesgpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225115371714:android:64b8433263c30a6c05235b",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225115371714-0ktmcnbmfo3jng2ejfuhfejc3rh20pn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCout1KKLKpHLGQ37l9yc_QEy3ZG-HsBcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225115371714-0ktmcnbmfo3jng2ejfuhfejc3rh20pn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
